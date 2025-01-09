@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855628518119",
+    "project_id": "chatterhub-18cf1",
+    "storage_bucket": "chatterhub-18cf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855628518119:android:f4443a0ab034716db30842",
+        "android_client_info": {
+          "package_name": "com.example.chatterHub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2-etuY3pi5OcqaaxA0cCfjp91roao2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

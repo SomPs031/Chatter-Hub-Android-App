@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "855628518119",
+    "firebase_url": "https://chatterhub-18cf1-default-rtdb.firebaseio.com",
+    "project_id": "chatterhub-18cf1",
+    "storage_bucket": "chatterhub-18cf1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855628518119:android:f4443a0ab034716db30842",
+        "android_client_info": {
+          "package_name": "com.example.chatterHub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855628518119-ne43ktkd798ngpiolvo6eh82uq9h7r9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatterHub",
+            "certificate_hash": "63e5a799942e9988369c8774c2113283d24a5c33"
+          }
+        },
+        {
+          "client_id": "855628518119-v3au3vhdh74serb1rdps13envm5nqtme.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2-etuY3pi5OcqaaxA0cCfjp91roao2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855628518119-v3au3vhdh74serb1rdps13envm5nqtme.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
